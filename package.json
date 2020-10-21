@@ -20,15 +20,16 @@
     "@angular/platform-browser": "^10.1.6",
     "@angular/platform-browser-dynamic": "^10.1.6",
     "@angular/router": "^10.1.6",
-    "@clr/angular": "^0.11.16",
-    "@clr/icons": "^0.11.16",
-    "@clr/ui": "^0.11.16",
-    "@webcomponents/custom-elements": "^1.0.0",
+    "@clr/angular": "^4.0.4",
+    "@clr/icons": "^4.0.4",
+    "@clr/ui": "^4.0.4",
     "core-js": "^2.5.4",
     "rxjs": "^6.0.0",
     "rxjs-compat": "^6.1.0",
     "systemjs": "^0.21.3",
-    "zone.js": "^0.10.3"
+    "zone.js": "^0.10.3",
+    "@clr/core": "^3.0.0",
+    "@webcomponents/webcomponentsjs": "^2.0.0"
   },
   "devDependencies": {
     "@angular/compiler-cli": "^10.1.6",
